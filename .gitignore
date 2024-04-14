@@ -1,0 +1,20 @@
+# Compiled object files
+*.o
+
+# Compiled binary
+*.out
+
+# Dependency directories
+bin/
+build/
+lib/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Executable
+library
+
+# OS-specific files
+.DS_Store
